@@ -1,4 +1,3 @@
-# practice0
 ## I LIKE PLAYING FOOTBALL
 ### My favorite player is Neymar Jr
 Welcome to the world of football
